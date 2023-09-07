@@ -1,4 +1,4 @@
-# loker_cuy
+# LokerCuy Flutter UI
 
 A new Flutter project.
 
